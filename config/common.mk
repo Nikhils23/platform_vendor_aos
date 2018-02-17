@@ -76,7 +76,8 @@ PRODUCT_PACKAGES += \
     Turbo \
     Launcher3 \
     DarknessHub \
-    GodlyTorch
+    GodlyTorch \
+    OmniJaws
 
 # Themes
 PRODUCT_PACKAGES += \
